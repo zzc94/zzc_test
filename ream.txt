@@ -1,7 +1,7 @@
-src�ļ�����ΪԴ����
-bin�ļ�����Ϊclass�ļ�
-��binĿ¼�´�cmd����̨ ���� 
+src文件夹中为源代码
+根文件夹中为class文件
+在根目录下打开cmd控制台 输入 
 java Exam1
 java Exam2
 java Exam3
-���г���
+运行程序
