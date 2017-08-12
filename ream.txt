@@ -1,6 +1,6 @@
 src文件夹中为源代码
-bin文件夹中为class文件
-在bin目录下打开cmd控制台 输入 
+根目录为class文件
+在根目录下打开cmd控制台 输入 
 java Exam1
 java Exam2
 java Exam3
