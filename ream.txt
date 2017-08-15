@@ -4,4 +4,3 @@ src文件夹中为源代码
 java Exam1
 java Exam2
 java Exam3
-运行程序
