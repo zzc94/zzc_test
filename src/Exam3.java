@@ -27,6 +27,7 @@ public class Exam3 {
 			}
 
 		}
+		
 		System.out.println("\nMap中的数据为：" + m);
 		for (Entry<Integer, List> entry : m.entrySet()) {
 			// System.out.println("key= " + entry.getKey() + " and value= " +

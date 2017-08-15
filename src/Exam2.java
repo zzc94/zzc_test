@@ -49,6 +49,7 @@ public class Exam2 {
 				System.out.println("您输入的日期不存在");
 				continue;
 			}
+			
 			System.out.println("下一天为：" + year + "-" + moon + "-" + day);
 		}
 }
