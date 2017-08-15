@@ -30,7 +30,7 @@ public class Exam2 {
 			} else if (moon == 4 || moon == 6 || moon == 9 || moon == 11) {
 				lastday = 30;
 			} else if (moon == 2) {
-				if ((year % 100 == 0 && year % 400 == 0) || year % 4 == 0) {
+				if ((year % 4 == 0 && year % 100 != 0) || year % 400 == 0) {
 					lastday = 29;
 				} else
 					lastday = 28;
